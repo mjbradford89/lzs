@@ -14,4 +14,4 @@ You are Ray. Ray uses his Liferay gun to protect himself and the world from mali
 
 ## Play the game
 
-[Play Ray's Lifebringer](http://mthadley.github.io/lzs)
+[Play Ray's Lifebringer](http://mjbradford89.github.io/lzs)
